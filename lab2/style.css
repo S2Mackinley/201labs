@@ -1,0 +1,17 @@
+  h1 {
+    color:red;
+    text-decoration: underline;
+    text-align: center;
+}
+div{
+    width: 80%;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+
+}
